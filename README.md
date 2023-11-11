@@ -8,8 +8,8 @@ The incremental solution uses the ISAM2 solver to optimize the trajectory increm
 
 2D Graph SLAM Incremental Solution
 
-![incremental](https://github.com/relifeto18/GTSAM_SLAM/assets/52005225/5a723009-8e1d-43fe-af52-5907acac3611)
+![incremental](https://github.com/relifeto18/GTSAM_SLAM/assets/52005225/5a8c7735-8b9e-4c0d-8fb8-698f7012ac81)
 
 3D Graph SLAM Incremental Solution
 
-![incremental_3D](https://github.com/relifeto18/GTSAM_SLAM/assets/52005225/df22e785-b550-43a8-b533-e12be149ab8d)
+![incremental_3D](https://github.com/relifeto18/GTSAM_SLAM/assets/52005225/e25539a9-483a-4175-bd47-cd69feee1a9b)
